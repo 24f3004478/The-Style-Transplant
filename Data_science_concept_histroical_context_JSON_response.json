@@ -1,0 +1,8 @@
+{
+  "prompt": "A 19th-century naturalist illustration of gradient descent as a pebble rolling down a contoured hillside terrain toward the lowest valley, cross-hatched ink lines, hand-colored lithograph in muted browns and greens, precise scientific labels with pointers: {step 1}, {step 2}, {minimum}, dramatic side lighting, centered composition like Ernst Haeckel plates, highly detailed textures on rock and path, educational textbook style --ar 16:9 --v 6.1 --style raw. Negatives are photographic shading, vibrant colors, digital glows, asymmetry, frames",
+  "model": "Stable Diffusion 3",
+  "concept": "gradient descent",
+  "tradition_name": "19th-century naturalist illustration",
+  "tradition_period": "1830s–1890s",
+  "tradition_approach": "Used cross-hatched shading, muted earth tones, pointer labels for scientific accuracy."
+}
